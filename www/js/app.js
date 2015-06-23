@@ -1,4 +1,6 @@
-{function(){
-	var hello_world=angular.module('hello world',[]);
+(function(){
+	var app=angular.module('HomePageController',[]);
+	
+	app.controller('HomePageController')
 	
 })();
