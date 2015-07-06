@@ -1,9 +1,7 @@
  
-var Map = document.getElementById('Map');
  
  var content = { titre: 'Best Pirate Game Ever', 
- 				 description : 'More Rhum, More Rhum, More Rhum for the Pirates, Hey !',
- 				 canvas : Map
+ 				 description : 'does it really need a description ?'
  				};
  				 
  var app = angular.module('homePage', []);
