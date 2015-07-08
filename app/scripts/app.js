@@ -8,8 +8,7 @@
  *
  * Main module of the application.
  */
-angular
-  .module('piratesProjectApp', [
+angular.module('piratesProjectApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
